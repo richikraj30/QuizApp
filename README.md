@@ -85,6 +85,18 @@ Contributions are welcome! If you have suggestions or improvements, feel free to
     git push origin feature/YourFeature
 5. **Open a pull request**
 
+## Screenshots
+
+### Home Page
+![Home Page](./screenshots/home-page.png)
+
+### Quiz View
+![Quiz View](./screenshots/quiz-view.png)
+
+### Results Page
+![Results Page](./screenshots/result-view-page.png)
+
+
 ## Contact
 **Richik Raj**\
 **Github**: [richikraj30](http://github.com/richikraj30)
