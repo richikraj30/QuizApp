@@ -38,7 +38,22 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
    npm test
 
 ## QuizApp Project Structure
+   ```
+   QuizApp/
+│
+├── public/             # Public assets and HTML template
+├── src/                # Source code
+│   ├── components/     # React components for the quiz app
+│   ├── hooks/          # Custom hooks for state management
+│   ├── tests/          # Test files for components and features
+│   ├── App.js          # Main app component
+│   └── index.js        # Entry point of the application
+│
+├── package.json        # Project metadata and scripts
+└── README.md           # Project documentation
 
+
+   ```
 
 ## Technologies Used
 
